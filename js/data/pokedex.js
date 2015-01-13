@@ -7103,7 +7103,8 @@ var POKEDEX_BW = $.extend(true, {}, POKEDEX_DPP, {
       "sd": 75,
       "sp": 118
     },
-    "w": 37.0
+    "w": 37.0,
+    "ab": "Volt Absorb"
   },
   "Chandelure": {
     "t1": "Ghost",
@@ -7981,7 +7982,8 @@ var POKEDEX_BW = $.extend(true, {}, POKEDEX_DPP, {
       "sd": 130,
       "sp": 55
     },
-    "w": 108.8
+    "w": 108.8,
+    "ab": "Harvest"
   },
   "Mandibuzz": {
     "t1": "Dark",
