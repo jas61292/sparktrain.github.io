@@ -10274,6 +10274,19 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
     },
     "w": 7.0
   },
+  "Plasmanta": {
+    "t1": "Electric",
+    "t2": "Poison",
+    "bs": {
+      "hp": 60,
+      "at": 57,
+      "df": 119,
+      "sa": 131,
+      "sd": 98,
+      "sp": 100
+    },
+    "w": 460.0
+  },
   "Primal Groudon": {
     "t1": "Ground",
     "t2": "Fire",
@@ -10564,6 +10577,19 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
       "sp": 70
     },
     "w": 195.0
+  },
+  "Volkraken": {
+    "t1": "Water",
+    "t2": "Fire",
+    "bs": {
+      "hp": 100,
+      "at": 45,
+      "df": 80,
+      "sa": 135,
+      "sd": 100,
+      "sp": 95
+    },
+    "w": 44.5
   },
   "Xerneas": {
     "t1": "Fairy",
