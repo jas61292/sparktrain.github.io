@@ -6956,6 +6956,19 @@ var POKEDEX_BW = $.extend(true, {}, POKEDEX_DPP, {
     },
     "w": 31.0
   },
+  "Aurumoth": {
+    "t1": "Bug",
+    "t2": "Psychic",
+    "bs": {
+      "hp": 110,
+      "at": 120,
+      "df": 99,
+      "sa": 117,
+      "sd": 60,
+      "sp": 94
+    },
+    "w": 193.0
+  },
   "Axew": {
     "t1": "Dragon",
     "bs": {
@@ -7078,6 +7091,19 @@ var POKEDEX_BW = $.extend(true, {}, POKEDEX_DPP, {
       "sp": 32
     },
     "w": 81.0
+  },
+  "Cawmodore": {
+    "t1": "Steel",
+    "t2": "Flying",
+    "bs": {
+      "hp": 50,
+      "at": 92,
+      "df": 130,
+      "sa": 65,
+      "sd": 75,
+      "sp": 118
+    },
+    "w": 37.0
   },
   "Chandelure": {
     "t1": "Ghost",
@@ -7943,6 +7969,19 @@ var POKEDEX_BW = $.extend(true, {}, POKEDEX_DPP, {
       "sp": 20
     },
     "w": 3.1
+  },
+  "Malaconda": {
+    "t1": "Dark",
+    "t2": "Grass",
+    "bs": {
+      "hp": 115,
+      "at": 100,
+      "df": 60,
+      "sa": 40,
+      "sd": 130,
+      "sp": 55
+    },
+    "w": 108.8
   },
   "Mandibuzz": {
     "t1": "Dark",
