@@ -6278,6 +6278,19 @@ var POKEDEX_DPP = $.extend(true, {}, POKEDEX_ADV, {
     "w": 420.0,
     "ab": "Slow Start"
   },
+  "Revenankh": {
+    "t1": "Ghost",
+    "t2": "Fighting",
+    "bs": {
+      "hp": 90,
+      "at": 105,
+      "df": 90,
+      "sa": 65,
+      "sd": 110,
+      "sp": 65
+    },
+    "w": 44,
+  },
   "Rhyperior": {
     "t1": "Ground",
     "t2": "Rock",
@@ -6567,6 +6580,19 @@ var POKEDEX_DPP = $.extend(true, {}, POKEDEX_ADV, {
       "sp": 74
     },
     "w": 19.2
+  },
+  "Syclant": {
+    "t1": "Ice",
+    "t2": "Bug",
+    "bs": {
+      "hp": 70,
+      "at": 116,
+      "df": 70,
+      "sa": 114,
+      "sd": 64,
+      "sp": 121
+    },
+    "w": 52,
   },
   "Tangrowth": {
     "t1": "Grass",
