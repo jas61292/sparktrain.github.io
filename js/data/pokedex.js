@@ -6253,6 +6253,19 @@ var POKEDEX_DPP = $.extend(true, {}, POKEDEX_ADV, {
     },
     "w": 43.8
   },
+  "Pyroak": {
+    "t1": "Fire",
+    "t2": "Grass",
+    "bs": {
+      "hp": 120,
+      "at": 70,
+      "df": 105,
+      "sa": 95,
+      "sd": 90,
+      "sp": 60
+    },
+    "w": 168
+  },
   "Rampardos": {
     "t1": "Rock",
     "bs": {
