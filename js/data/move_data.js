@@ -1701,6 +1701,12 @@ var MOVES_XY = $.extend(true, {}, MOVES_BW, {
         isSpread: true
     },
     'Overheat': { bp: 130 },
+    'Paleo Wave': {
+        bp: 85,
+        type: 'Rock',
+        category: 'Special',
+        hasSecondaryEffect: true
+    },
     'Phantom Force': {
         bp: 90,
         type: 'Ghost',
@@ -1731,6 +1737,13 @@ var MOVES_XY = $.extend(true, {}, MOVES_BW, {
         isSpread: 'true'
     },
     'Rock Tomb': { bp: 60 },
+    'Shadow Strike': {
+        bp: 80,
+        type: 'Ghost',
+        category: 'Physical',
+        hasSecondaryEffect: true,
+        makesContact: true
+    },
     'Storm Throw': { bp: 60 },
     'Surf': { bp: 90 },
     'Thief': { bp: 60 },
