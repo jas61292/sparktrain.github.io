@@ -10285,7 +10285,7 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
       "sd": 98,
       "sp": 100
     },
-    "w": 460.0
+    "w": 460.0,
     "ab": "Storm Drain"
   },
   "Primal Groudon": {
@@ -10590,7 +10590,7 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
       "sd": 100,
       "sp": 95
     },
-    "w": 44.5
+    "w": 44.5,
     "ab": "Analytic"
   },
   "Xerneas": {
