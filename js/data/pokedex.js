@@ -5283,6 +5283,20 @@ var POKEDEX_DPP = $.extend(true, {}, POKEDEX_ADV, {
     "w": 320.0,
     "ab": "Multitype"
   },
+  "Arghonaut": {
+    "t1": "Water",
+    "t2": "Fighting",
+    "bs": {
+      "hp": 105,
+      "at": 110,
+      "df": 95,
+      "sa": 70,
+      "sd": 100,
+      "sp": 75
+    },
+    "w": 151,
+    "ab": "Unaware"
+  },
   "Azelf": {
     "t1": "Psychic",
     "bs": {
@@ -5498,6 +5512,20 @@ var POKEDEX_DPP = $.extend(true, {}, POKEDEX_ADV, {
     "w": 0.6,
     "ab": "Levitate"
   },
+  "Colossoil": {
+    "t1": "Dark",
+    "t2": "Ground",
+    "bs": {
+      "hp": 133,
+      "at": 122,
+      "df": 72,
+      "sa": 71,
+      "sd": 72,
+      "sp": 95
+    },
+    "w": 683.6,
+    "ab": "Guts"
+  },
   "Combee": {
     "t1": "Bug",
     "t2": "Flying",
@@ -5548,6 +5576,20 @@ var POKEDEX_DPP = $.extend(true, {}, POKEDEX_ADV, {
       "sp": 50
     },
     "w": 23.0
+  },
+  "Cyclohm": {
+    "t1": "Electric",
+    "t2": "Dragon",
+    "bs": {
+      "hp": 108,
+      "at": 60,
+      "df": 118,
+      "sa": 112,
+      "sd": 70,
+      "sp": 80
+    },
+    "w": 59,
+    "ab": "Shield Dust"
   },
   "Darkrai": {
     "t1": "Dark",
@@ -5650,6 +5692,19 @@ var POKEDEX_DPP = $.extend(true, {}, POKEDEX_ADV, {
       "sp": 60
     },
     "w": 84.5
+  },
+  "Fidgit": {
+    "t1": "Poison",
+    "t2": "Ground",
+    "bs": {
+      "hp": 95,
+      "at": 76,
+      "df": 109,
+      "sa": 90,
+      "sd": 80,
+      "sp": 105
+    },
+    "w": 53
   },
   "Finneon": {
     "t1": "Water",
@@ -5905,6 +5960,20 @@ var POKEDEX_DPP = $.extend(true, {}, POKEDEX_ADV, {
     },
     "w": 55.0
   },
+  "Kitsunoh": {
+    "t1": "Steel",
+    "t2": "Ghost",
+    "bs": {
+      "hp": 80,
+      "at": 103,
+      "df": 85,
+      "sa": 55,
+      "sd": 80,
+      "sp": 110
+    },
+    "w": 51,
+    "ab": "Limber"
+  },
   "Kricketot": {
     "t1": "Bug",
     "bs": {
@@ -5928,6 +5997,20 @@ var POKEDEX_DPP = $.extend(true, {}, POKEDEX_ADV, {
       "sp": 65
     },
     "w": 25.5
+  },
+  "Krilowatt": {
+    "t1": "Electric",
+    "t2": "Water",
+    "bs": {
+      "hp": 151,
+      "at": 84,
+      "df": 73,
+      "sa": 83,
+      "sd": 74,
+      "sp": 105
+    },
+    "w": 10.6,
+    "ab": "Magic Guard"
   },
   "Leafeon": {
     "t1": "Grass",
@@ -6581,6 +6664,19 @@ var POKEDEX_DPP = $.extend(true, {}, POKEDEX_ADV, {
     },
     "w": 2.0
   },
+  "Stratagem": {
+    "t1": "Rock",
+    "bs": {
+      "hp": 90,
+      "at": 60,
+      "df": 65,
+      "sa": 120,
+      "sd": 70,
+      "sp": 130
+    },
+    "w": 45,
+    "ab": "Levitate"
+  },
   "Stunky": {
     "t1": "Poison",
     "t2": "Dark",
@@ -6695,6 +6791,20 @@ var POKEDEX_DPP = $.extend(true, {}, POKEDEX_ADV, {
       "sp": 40
     },
     "w": 38.5
+  },
+  "Voodoom": {
+    "t1": "Fighting",
+    "t2": "Dark",
+    "bs": {
+      "hp": 90,
+      "at": 85,
+      "df": 80,
+      "sa": 105,
+      "sd": 80,
+      "sp": 110
+    },
+    "w": 75.5,
+    "ab": "Lightning Rod"
   },
   "Weavile": {
     "t1": "Dark",
